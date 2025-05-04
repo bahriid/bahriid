@@ -1,19 +1,18 @@
-### Hey, I'm BAHRI 👋
+### Hey, I'm Bahri 👋
 
-#### Building thoughtful backend systems & clean developer experiences 🌱
+#### A backend engineer crafting clean systems & thoughtful developer experiences ⚙️
 
-I'm a backend-focused software developer passionate about well-architected systems, performance, and community-driven development. Whether I'm designing scalable APIs or mentoring others, I thrive at the intersection of logic and collaboration.
+I'm a software developer focused on building scalable backend systems, designing clean APIs, and contributing to the tech community. I care about performance, maintainability, and developer happiness—one line of code at a time.
 
-- 🏢 Lead Software Engineer at [CAZH ID](https://cazh.id)
-- 🧑‍🤝‍🧑 Contributor to open-source projects and backend communities
-- ⚙️ I work mostly with: `.php`, `.js`, `.py`, `.sql`, `.yaml`, `.sh`
-- 🛠️ Tools I love: Docker, PostgreSQL, Redis, Laravel, Node.js
-- 🌍 Active in: **Laravel**, **Express**, and **backend architecture** communities
-- 🧠 Ask me about: **API design**, **DevOps pipelines**, **developer experience**, **system architecture**
-- 📚 Currently learning: **GO** and **observability best practices**
-- ☁️ Advocate of clean code, meaningful abstractions, and practical software design
+- 🧑‍💻 Software Engineer | Backend & Systems Specialist
+- 🌐 Portfolio: [bahri.id](https://bahri.id)
+- ⚙️ Tech I work with: `.php`, `.js`, `.py`, `.sql`, `.yaml`, `.sh`
+- 🛠️ Favorite tools: Docker, PostgreSQL, Redis, Laravel, Express
+- 🌍 Active in backend, open-source, and clean architecture communities
+- 🧠 Ask me about: **API design**, **DevOps**, **system design**, **system architecture**
+- 📚 Currently exploring: **GO** and **observability tooling**
+- 🗣 I love sharing ideas around **clean code**, **sustainable tech**, and **developer growth**
 
 ---
 
-> _“Great software is built by understanding humans as much as by understanding code.”_  
-> – Probably you, someday 😊
+> _"Build systems people trust—then help others build them too."_
