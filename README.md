@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hey, I'm BAHRI 👋
 
-<!--
-**bahriid/bahriid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Building thoughtful backend systems & clean developer experiences 🌱
 
-Here are some ideas to get you started:
+I'm a backend-focused software developer passionate about well-architected systems, performance, and community-driven development. Whether I'm designing scalable APIs or mentoring others, I thrive at the intersection of logic and collaboration.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏢 Lead Software Engineer at [CAZH ID](https://cazh.id)
+- 🧑‍🤝‍🧑 Contributor to open-source projects and backend communities
+- ⚙️ I work mostly with: `.php`, `.js`, `.py`, `.sql`, `.yaml`, `.sh`
+- 🛠️ Tools I love: Docker, PostgreSQL, Redis, Laravel, Node.js
+- 🌍 Active in: **Laravel**, **Express**, and **backend architecture** communities
+- 🧠 Ask me about: **API design**, **DevOps pipelines**, **developer experience**, **system architecture**
+- 📚 Currently learning: **GO** and **observability best practices**
+- ☁️ Advocate of clean code, meaningful abstractions, and practical software design
+
+---
+
+> _“Great software is built by understanding humans as much as by understanding code.”_  
+> – Probably you, someday 😊
